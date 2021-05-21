@@ -1,0 +1,1 @@
+*If application doesn't start be sure you have already installed .Net Framework 4.7.2 or newer.
